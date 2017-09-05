@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">로꾸거</string>
+    <string name="dummy_button">더미버튼</string>
+    <string name="dummy_content">더미컨텐츠</string>
+    <string name="title_activity_splash">스플래시액티비티</string>
+</resources>
